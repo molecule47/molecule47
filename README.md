@@ -5,10 +5,10 @@ I'm a tech enthusiast and a programmer, pursuing theorectical sciences as my fie
 I specialize in the following skills:
 → Python
 
-→ HTML, CSS
-→ MySQL
-→ Ethical Hacking (Penetration Testing, etc.)
-→ Graphic Design
+→ HTML, CSS  
+→ MySQL  
+→ Ethical Hacking (Penetration Testing, etc.)  
+→ Graphic Design  
 
 I have 2 years of experience with Linux, successfully created Discord bots with exceptional features. I enjoy learning new things and using code to solve problems.
 
