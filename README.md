@@ -7,7 +7,6 @@ I specialize in the following skills:
 → HTML, CSS  
 → MySQL  
 → Ethical Hacking (Penetration Testing, etc.)  
-→ Graphic Design  
 
 I have 2 years of experience with Linux and I have successfully created Discord bots with exceptional features. Learning new things and using code to solve problems has always been common in my life.
 
