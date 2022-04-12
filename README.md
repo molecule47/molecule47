@@ -10,7 +10,7 @@ I specialize in the following skills:
 → Ethical Hacking (Penetration Testing, etc.)  
 → Graphic Design  
 
-I have 2 years of experience with Linux, successfully created Discord bots with exceptional features. I enjoy learning new things and using code to solve problems.
+I have 2 years of experience with Linux and I have successfully created Discord bots with exceptional features. Learning new things and using code to solve problems has always been common in my life.
 
 <!--
 **molecule47/molecule47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
