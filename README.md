@@ -1,4 +1,4 @@
-I'm a tech enthusiast and a programmer, pursuing theorectical sciences as my future field of study. I have been around computers all my life, I love to solve technical problems and create software that is relevant and has real-world implications. Furthermore, I've always been improving to reach the path to achieve brilliance. 
+I'm a tech enthusiast and a programmer, pursuing theorectical sciences as my future field of study. I have been around computers all my life, I love to solve technical problems and create software that is relevant and has real-world implications.
 
 I specialize in the following skills:  
 → Python  
